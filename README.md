@@ -6,6 +6,6 @@ ID: 151 2518 042
 
 Faculty Initial: AZK
 
-Project Topic: Spetial Microphone
+Project Topic: Spatial Microphone
 
 Project Platform: Android
